@@ -1,0 +1,17 @@
+#+Title: Curso Estruturas de Dados e Algorítmos
+#+Author: Alexandre Rademaker
+
+* Books 
+
+- S. Dasgupta, C. H. Papadimitriou, and U. V. Vazirani, Algorithms. 2006.
+- J. Kleinberg and E. Tardos, Algorithm Design. 2005, pp. 1–864.
+- http://www.amazon.com/Python-Algorithms-Mastering-Basic-Language-ebook/dp/B00LPDVBLS
+
+* Links 
+
+- https://github.com/google/lisp-koans
+- https://www.coursera.org/course/algo
+- https://www.coursera.org/specializations/data-structures-algorithms
+- https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
+- [[http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/][MIT Introduction to Algorithms]]
+
