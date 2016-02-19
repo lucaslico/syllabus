@@ -1,0 +1,18 @@
+#+Title: Aula 02 - <2016-02-18 Thu>
+#+Author: Alexandre Rademaker
+
+Começamos a seguir o material do curso de [[https://www.coursera.org/course/algo][Algorithms: Design and
+Analysis, Part 1]]. 
+
+Apresentei os 7 primeiros slides do curso que apresentam a introdução
+do curso, o algorítmo de multiplicação Karatsuba e o algorítmo de
+ordenação de valores merge sort.
+
+Deixei como sugestão de estudo a implementação dos algorítmos vistos
+em sala:
+
+1. Implementar o algorítmo de multiplicação de Karatsuba. Usando
+   talvez como referência a apresentação dele no livro Algorithms.
+
+2. Implementar o merge sort.
+

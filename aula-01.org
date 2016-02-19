@@ -1,0 +1,21 @@
+#+Title: Aula 01 - <2016-02-16 Tue>
+#+Author: Alexandre Rademaker
+
+Foi feita a Aprensentação do curso. 
+
+- Destaquei a importância de implementar os algoritmos apresentados
+  como exercício.
+
+- Falamos sobre a estrutura do curso, material de apoio e
+  avaliações. Iremos tentar avaliações por trabalhos e projetos.
+
+- Apresentei as motivações para estudarmos algorítmos e estruturas de
+  dados.
+
+- Dei alguns exemplos da relação entre as estrututas de dados e a
+  complexidade de algorítmos usando operações básicas sobre [[https://en.wikipedia.org/wiki/Linked_list][listas
+  encadeadas]] e [[https://en.wikipedia.org/wiki/Array_data_structure][arrays]].
+
+- Falamos ainda brevemente sobre [[https://en.wikipedia.org/wiki/Binary_tree][árvores binárias]] e busca em árvores
+  comparado com busca linear em uma lista.
+
