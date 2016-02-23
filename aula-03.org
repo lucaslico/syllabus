@@ -1,0 +1,56 @@
+#+Title: Aula 03 - <2016-02-23 Tue>
+#+Author: Alexandre Rademaker
+
+Terminamos análise informal do 'merge sort' e falamos dos critérios
+que usaremos para analisar complexidade de algorítmos, terminamos
+falando de complexidade assimptótica.
+
+Lembrando...
+
+Recursão não é o problema. Abaixo duas implementações recursivas de
+Fibonacci, a primeira ineficiente e a segunda eficiente.
+
+#+BEGIN_SRC lisp
+(defun fib1 (n)
+  (cond 
+    ((= n 0) 0)
+    ((= n 1) 1)
+    (t (+ (fib1 (- n 1)) (fib1 (- n 2))))))
+
+
+(defun fib2 (n)
+  (labels ((calc-fib (n a b)
+	     (if (= n 0)
+		 a
+		 (calc-fib (- n 1) b (+ a b)))))
+    (calc-fib n 0 1)))
+#+END_SRC
+
+Estamos interessados em problemas onde as entradas são grandes. Em
+alguns casos, para pequenas entradas, um algorítmo pode parecer mais
+eficiente que outro.
+
+#+BEGIN_SRC gnuplot :file output.png
+set xrange [0:100]
+plot 6 * x * log(x) + 6 * x , .5 * (x ** 2) 
+#+END_SRC
+
+#+RESULTS:
+[[file:output.png]]
+
+* Tarefas
+
+- Na próxima aula terminamos os slides da Week 1 do
+  https://www.coursera.org/course/algo.
+- Mandar emails para mim para criação da lista com subject '[ED 2016]
+  meu email'.
+- Já irei preparar o material para o primeiro exercício de
+  programação.
+- Os exercícios do cap. 0 do Papadimitriou já podem ser
+  feitos. Reportem dúvidas na lista (assim que for criada) para
+  discutirmos em sala o que for reportado na lista.
+
+* Links 
+
+- http://www.gnuplot.info
+- http://www.gnuplotting.org
