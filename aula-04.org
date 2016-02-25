@@ -1,0 +1,18 @@
+#+Title: Aula 04 - <2016-02-25 Thu>
+#+Author: Alexandre Rademaker
+
+Discutimos o cap. de divisão e conquista do Papadimitriou. Falamos
+sobre o algoritmo de multiplicação, teorema master e revisamos o
+merge-sort. No final, comparamos a implementação recursiva e
+interativa do merge-sort.
+
+* Tarefas
+
+- Estudar e comparar outros algoritmos de ordenação com o merge-sort:
+  insert sort, selection sort e quicksort.
+
+- Adiantar leitura sobre o algoritmo de calculo da mediana.
+
+* Links 
+
+- http://www.sorting-algorithms.com/
