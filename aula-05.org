@@ -1,0 +1,12 @@
+#+Title: Aula 05 - <2016-03-01 Tue>
+#+Author: Alexandre Rademaker
+
+Revisamos as notações de complexidade usando os slides do
+Coursera. Aprensentei o algorítmo da mediana pelo livro do
+Papadimitriou e terminamos a aula falando do algorítmo de contagens de
+inversões em um array, apresentado nos slides do Coursera.
+
+* Tarefas
+
+Exercícios: 2.3, 2.4, 2.5, 2.11 e 2.17. Dúvidas devem ser enviadas
+para a lista para discutirmos em sala.
