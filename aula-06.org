@@ -1,0 +1,13 @@
+#+Title: Aula 06 - <2016-03-03 Thu>
+#+Author: Alexandre Rademaker
+
+Terminamos outros exemplos de Divisão e Conquista. O problema da
+contagem de inversões e o artigo do 'Programming Pearls' que apresenta
+o problema da maior soma de um subvetor.
+
+* Tarefas
+
+- Implementar os algorítmos discutidos. Sempre procurando comparar a
+  abordagem recursiva e interativa.
+
+- Ler próximos capítulos.
