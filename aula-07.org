@@ -1,0 +1,59 @@
+#+Title: Aula 06 - <2016-03-08 Tue>
+#+Author: Alexandre Rademaker
+
+Implementamos alguns algoritmos. Primeiro o [[https://en.wikipedia.org/wiki/Quicksort][Quicksort]] e depois do
+[[https://en.wikipedia.org/wiki/Merge_sort][Merge Sort]].
+
+A implementação do quicksort foi feita em [[https://www.haskell.org][Haskell]]. Comparamos esta
+implementação com o pseudo-código apresentado na Wikipedia.
+
+#+BEGIN_SRC haskell
+qsort :: [Int] -> [Int]
+qsort [] = []
+qsort (x:xs) = qsort small ++ mid ++ qsort large
+  where
+    small = [y | y <- xs, y < x]
+    mid   = [y | y <- xs, y == x] ++ [x]
+    large = [y | y <- xs, y > x]
+#+END_SRC
+
+A implementação do Merge Sort foi feita em Common Lisp. Notem que o
+código abaixo não usa efetivamente a função =merge-1=, usamos a função
+=merge= já existente em Common Lisp. A versão abaixo de =merge-sort=
+tem o mesmo comportamento da apresentada em sala, foi apenas
+simplificada.
+
+#+BEGIN_SRC lisp
+  (defun merge-sort (alist)
+    (if (> (length alist) 1) 
+        (let ((mid (floor (length alist) 2)))
+          (merge 'list
+                 (merge-sort (subseq alist 0 mid))
+                 (merge-sort (subseq alist mid)) 
+                 #'<=))
+        alist))
+
+  (defun merge-1 (list1 list2)
+    (cond ((null list1)
+           list2)
+          ((null list2)
+           list1)
+          (t (if (<= (car list1) (car list2))
+                 (cons (car list1) (merge-1 (cdr list1) list2))
+                 (cons (car list2) (merge-1 list1 (cdr list2)))))))
+#+END_SRC
+
+Próxima aula começamos a falar de grafos!
+
+* Tarefas
+
+- Ler próximos capítulos.
+
+- Na implementação do =merge-sort= acima, as duas chamadas de =subseq=
+  poderiam ser evitadas, não acham? Obviamente, a complexidade não
+  muda, dado que temos =O(2n)= o que reduz para =O(n)=, mas mesmo
+  assim poderíamos evitar. Como?
+
+- Cada chamada de =merge-sort= executa uma chamada de
+  =length=. Podemos evitar isso? Como?
+
