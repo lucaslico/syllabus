@@ -1,4 +1,4 @@
-#+Title: Aula 06 - <2016-03-08 Tue>
+#+Title: Aula 07 - <2016-03-08 Tue>
 #+Author: Alexandre Rademaker
 
 Implementamos alguns algoritmos. Primeiro o [[https://en.wikipedia.org/wiki/Quicksort][Quicksort]] e depois do

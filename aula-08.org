@@ -1,0 +1,14 @@
+#+Title: Aula 08 - <2016-03-10 Thu>
+#+Author: Alexandre Rademaker
+
+Criei na sala o projeto de programação usando os serviços do
+http://classroom.github.com.
+
+Terminamos a aula discutindo questões sobre como adaptar os códigos
+vistos até agora para lidar com dados em arquivos ao invés de dados já
+em memória.
+
+* Tarefas
+
+- Implementar o projeto 1.
+
