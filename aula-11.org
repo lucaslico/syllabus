@@ -1,0 +1,7 @@
+#+Title: Aula 11 - <2016-03-22 Tue>
+#+Author: Alexandre Rademaker
+
+Grafos. Falamos de Busca em Profundidade em grafos
+direcionados. Basicamente, seções 3.3 e 3.4 do Algorithms.
+
+

@@ -13,9 +13,14 @@
 - https://www.coursera.org/course/algo
 - https://www.coursera.org/specializations/data-structures-algorithms
 - https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
-- [[http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/][MIT Introduction to Algorithms]]
+- [[http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/][MIT 2005]]
+- [[http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/][MIT 2011]]
 
 Lisp:
 
 - https://github.com/google/lisp-koans
 
+Outros:
+
+- http://grigory.us/blog/the-simple-economics-of-algorithms-for-big-data/
+- http://jessesnet.com/development-notes/2014/big-o-algorithm-analysis/
