@@ -4,4 +4,7 @@
 Grafos. Falamos de Busca em Profundidade em grafos
 direcionados. Basicamente, seções 3.3 e 3.4 do Algorithms.
 
+Vide https://github.com/ED-2016/problem-1, divulgação da solução.
+
+
 
