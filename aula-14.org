@@ -1,0 +1,7 @@
+#+Title: Aula 14 - <2016-03-31 Thu>
+#+Author: Alexandre Rademaker
+
+Terminamos min cut discutindo a análise do algorítmo e
+complexidade. Descrevi próximo cap. de grafos baseado em BFS.
+
+

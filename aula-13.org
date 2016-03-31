@@ -1,0 +1,6 @@
+#+Title: Aula 13 - <2016-03-29 Tue>
+#+Author: Alexandre Rademaker
+
+Terminamos cap. DFS do Algorithms e falamos do problema de min cut.
+
+
