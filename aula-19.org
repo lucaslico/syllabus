@@ -1,0 +1,25 @@
+#+Title: Aula 19 - <2016-04-28 Thu>
+#+Author: Alexandre Rademaker
+
+* Tópicos
+
+Cap. 4 do Algorithms. BFS e aplicações para menor caminhos. Exemplo de
+aplicação de fila de prioridade.
+
+Mostrei o código do provador de teoremas baseado em [[https://github.com/arademaker/krr/blob/master/tableaux.lisp][Tableaux]] como
+exemplo de aplicação de fila de prioridade. Deixei como diga para os
+alunos contribuir com o código fazendo PR para este repositório. O
+problema pendente é combinar a eficiência do uso de fila de prioridade
+com a necessidade de, para a unificação (unify), todos os termos
+atômicos ainda na fila precisarem serem verificados.
+
+Falamos também do dicionário de [[https://github.com/TALP-UPC/FreeLing][FreeLing]] e das regras de afixos e
+consistência dos dicionários. Expliquei como o sistema funciona e o
+problema que seria desenvolver um algorítmo genérico para, a partir
+das [[https://github.com/TALP-UPC/FreeLing/blob/master/data/pt/afixos.dat][regras de afixos]], verificar redundâncias nos arquivos do
+[[https://github.com/TALP-UPC/FreeLing/tree/master/data/pt/dictionary/entries][dicionário]].
+
+
+
+
+
