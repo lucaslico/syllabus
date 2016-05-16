@@ -1,0 +1,20 @@
+#+Title: Aula 19 - <2016-05-12 Thu>
+#+Author: Alexandre Rademaker
+
+* Tópicos
+
+Apresentei algumas aplicações da estrutura de fila de prioridades
+(visto na sec. 5.1 do Algorithms).
+
+Falamos de programação dinâmica, problema da distância de edição.
+
+* Tarefas
+
+- Implementar o algoritmo da distância de edição de duas strings.
+
+- Lista sobre capítulo 3: 3.2, 3.3, 3.6, 3.7, 3.10, 3.11, 3.16, 3.22,
+  3.27, 3.29 e 3.30.
+
+- Lista sobre capítulo 4: 4.1, 4.2, 4.4, 4.8, 4.11, 4.13, 4.15, 4.16,
+  4.18, 4.19.
+
