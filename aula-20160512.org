@@ -1,4 +1,4 @@
-#+Title: Aula 19 - <2016-05-12 Thu>
+#+Title: Resumo da Aula
 #+Author: Alexandre Rademaker
 
 * Tópicos

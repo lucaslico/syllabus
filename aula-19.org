@@ -18,8 +18,3 @@ consistência dos dicionários. Expliquei como o sistema funciona e o
 problema que seria desenvolver um algorítmo genérico para, a partir
 das [[https://github.com/TALP-UPC/FreeLing/blob/master/data/pt/afixos.dat][regras de afixos]], verificar redundâncias nos arquivos do
 [[https://github.com/TALP-UPC/FreeLing/tree/master/data/pt/dictionary/entries][dicionário]].
-
-
-
-
-

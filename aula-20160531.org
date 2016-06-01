@@ -1,0 +1,13 @@
+#+Title: Resumo da Aula
+#+Author: Alexandre Rademaker
+
+* Tópicos
+
+Revisamos o projeto SUMO e FreeLing, falamos sobre a lista de
+exercícios e A2.
+
+* Listas
+
+- Cap 5: 5.1, 5.3, 5.10, 5.27.
+- Cap 6: 6.1, 6.2, 6.3, 6.4, 6.7, 6.15
+- Cap 8: 8.1, 8.2, 8.3, 8.5, 8.7, 8.15

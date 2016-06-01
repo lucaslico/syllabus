@@ -24,3 +24,4 @@ Outros:
 
 - http://grigory.us/blog/the-simple-economics-of-algorithms-for-big-data/
 - http://jessesnet.com/development-notes/2014/big-o-algorithm-analysis/
+- http://jasonpark.me/AlgorithmVisualizer/
